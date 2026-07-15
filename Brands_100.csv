@@ -1,0 +1,102 @@
+BrandID,BrandName,Country,FoundedYear,BrandStatus
+1,Samsung,South Korea,1938,Active
+2,Apple,USA,1976,Active
+3,Sony,Japan,1946,Active
+4,LG,South Korea,1958,Active
+5,Dell,USA,1984,Active
+6,HP,USA,1939,Active
+7,Lenovo,China,1984,Active
+8,Asus,Taiwan,1989,Active
+9,Acer,Taiwan,1976,Active
+10,Microsoft,USA,1975,Active
+11,Nike,USA,1964,Active
+12,Adidas,Germany,1949,Active
+13,Puma,Germany,1948,Active
+14,Reebok,United Kingdom,1958,Active
+15,Levi's,USA,1853,Active
+16,Zara,Spain,1975,Active
+17,H&M,Sweden,1947,Active
+18,Uniqlo,Japan,1949,Active
+19,Raymond,India,1925,Active
+20,Allen Solly,India,1993,Active
+21,Boat,India,2016,Active
+22,Noise,India,2014,Active
+23,JBL,USA,1946,Active
+24,Philips,Netherlands,1891,Active
+25,Panasonic,Japan,1918,Active
+26,Canon,Japan,1937,Active
+27,Nikon,Japan,1917,Active
+28,Bosch,Germany,1886,Active
+29,Whirlpool,USA,1911,Active
+30,Godrej,India,1897,Active
+31,IFB,India,1974,Active
+32,Prestige,India,1955,Active
+33,Milton,India,1972,Active
+34,Cello,India,1962,Active
+35,Tata,India,1868,Active
+36,Amul,India,1946,Active
+37,Nestle,Switzerland,1866,Active
+38,Britannia,India,1892,Active
+39,Parle,India,1929,Active
+40,Dabur,India,1884,Active
+41,Himalaya,India,1930,Active
+42,Patanjali,India,2006,Active
+43,Lakme,India,1952,Active
+44,L'Oreal,France,1909,Active
+45,Maybelline,USA,1915,Active
+46,Mamaearth,India,2016,Active
+47,Pigeon,South Korea,1957,Active
+48,Borosil,India,1962,Active
+49,Bajaj,India,1926,Active
+50,Hero,India,1984,Active
+51,Honda,Japan,1948,Active
+52,Yamaha,Japan,1955,Active
+53,Suzuki,Japan,1909,Active
+54,Ford,USA,1903,Active
+55,Toyota,Japan,1937,Active
+56,Kia,South Korea,1944,Active
+57,Mahindra,India,1945,Active
+58,Royal Enfield,India,1901,Active
+59,Casio,Japan,1946,Active
+60,Fossil,USA,1984,Active
+61,Titan,India,1984,Active
+62,Timex,USA,1854,Active
+63,Seiko,Japan,1881,Active
+64,OnePlus,China,2013,Active
+65,Xiaomi,China,2010,Active
+66,Realme,China,2018,Active
+67,Vivo,China,2009,Active
+68,Oppo,China,2004,Active
+69,Nothing,United Kingdom,2020,Active
+70,Intel,USA,1968,Active
+71,AMD,USA,1969,Active
+72,Nvidia,USA,1993,Active
+73,Sandisk,USA,1988,Active
+74,Kingston,USA,1987,Active
+75,Logitech,Switzerland,1981,Active
+76,Corsair,USA,1994,Active
+77,TP-Link,China,1996,Active
+78,D-Link,Taiwan,1986,Active
+79,Syska,India,1989,Active
+80,Crompton,India,1937,Active
+81,Havells,India,1958,Active
+82,Orient,India,1954,Active
+83,Anchor,Japan,1975,Active
+84,MRF,India,1946,Active
+85,CEAT,India,1958,Active
+86,Apollo,India,1972,Active
+87,Asian Paints,India,1942,Active
+88,Berger,India,1923,Active
+89,Fevicol,India,1959,Active
+90,3M,USA,1902,Active
+91,Pidilite,India,1959,Active
+92,Decathlon,France,1976,Active
+93,Wildcraft,India,1998,Active
+94,American Tourister,USA,1933,Active
+95,Safari,India,1974,Active
+96,VIP,India,1971,Active
+97,Campus,India,2005,Active
+98,Woodland,India,1992,Active
+99,Bata,Switzerland,1894,Active
+100,Skechers,USA,1992,Active
+101,Crocs,USA,2002,Active
