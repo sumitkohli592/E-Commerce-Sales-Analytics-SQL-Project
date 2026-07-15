@@ -1,0 +1,301 @@
+SupplierID,SupplierName,ContactPerson,Phone,Email,City,State,Country,SupplierRating,IsActive
+1,Shree Imports 1,Manager 1,9459587477,supplier1@examplemail.com,Hyderabad,Telangana,Thailand,4.58,1
+2,United Solutions 2,Manager 2,9819697499,supplier2@examplemail.com,Chennai,Tamil Nadu,India,3.7,1
+3,United Wholesale 3,Manager 3,9734796240,supplier3@examplemail.com,Bengaluru,Karnataka,Taiwan,4.01,1
+4,Universal Distributors 4,Manager 4,9919716084,supplier4@examplemail.com,Chennai,Tamil Nadu,India,4.19,1
+5,United Traders 5,Manager 5,9281476854,supplier5@examplemail.com,Indore,Madhya Pradesh,India,4.3,1
+6,Metro Industries 6,Manager 6,9125129175,supplier6@examplemail.com,Indore,Madhya Pradesh,India,3.54,1
+7,United Suppliers 7,Manager 7,9839306477,supplier7@examplemail.com,Lucknow,Uttar Pradesh,USA,4.75,1
+8,Om Traders 8,Manager 8,9906454279,supplier8@examplemail.com,Nagpur,Maharashtra,India,4.57,1
+9,United Distributors 9,Manager 9,9103265010,supplier9@examplemail.com,Ludhiana,Punjab,India,3.54,1
+10,Sai Distributors 10,Manager 10,9173228344,supplier10@examplemail.com,Chennai,Tamil Nadu,Thailand,4.01,1
+11,Universal Imports 11,Manager 11,9411966138,supplier11@examplemail.com,Mumbai,Maharashtra,India,3.99,1
+12,Elite Solutions 12,Manager 12,9749227716,supplier12@examplemail.com,Kochi,Kerala,India,3.82,1
+13,Modern Imports 13,Manager 13,9615082516,supplier13@examplemail.com,Ahmedabad,Gujarat,India,4.87,1
+14,Om Wholesale 14,Manager 14,9278826047,supplier14@examplemail.com,Mumbai,Maharashtra,India,3.8,1
+15,Universal Industries 15,Manager 15,9140988992,supplier15@examplemail.com,Ahmedabad,Gujarat,India,4.99,1
+16,Universal Retail Supply 16,Manager 16,9231071662,supplier16@examplemail.com,Pune,Maharashtra,India,3.85,1
+17,Apex Wholesale 17,Manager 17,9004067528,supplier17@examplemail.com,Bengaluru,Karnataka,India,4.8,1
+18,Prime Distributors 18,Manager 18,9041935053,supplier18@examplemail.com,Kochi,Kerala,Thailand,3.98,1
+19,Royal Imports 19,Manager 19,9857932688,supplier19@examplemail.com,Chennai,Tamil Nadu,India,4.34,1
+20,Metro Enterprises 20,Manager 20,9568300937,supplier20@examplemail.com,Hyderabad,Telangana,India,4.97,1
+21,Metro Suppliers 21,Manager 21,9701672689,supplier21@examplemail.com,Ahmedabad,Gujarat,India,3.57,1
+22,Shree Enterprises 22,Manager 22,9998052005,supplier22@examplemail.com,Lucknow,Uttar Pradesh,India,3.77,1
+23,Star Traders 23,Manager 23,9152907324,supplier23@examplemail.com,Surat,Gujarat,India,4.4,1
+24,United Wholesale 24,Manager 24,9584173618,supplier24@examplemail.com,Ahmedabad,Gujarat,India,4.06,1
+25,Apex Imports 25,Manager 25,9334459445,supplier25@examplemail.com,Chennai,Tamil Nadu,China,3.52,1
+26,Universal Corporation 26,Manager 26,9891913553,supplier26@examplemail.com,Nagpur,Maharashtra,China,3.83,1
+27,Sai Solutions 27,Manager 27,9494856685,supplier27@examplemail.com,Jaipur,Rajasthan,India,3.65,1
+28,Metro Distributors 28,Manager 28,9492311364,supplier28@examplemail.com,Indore,Madhya Pradesh,India,3.98,1
+29,United Distributors 29,Manager 29,9716224380,supplier29@examplemail.com,Ludhiana,Punjab,India,4.69,1
+30,Global Enterprises 30,Manager 30,9806072351,supplier30@examplemail.com,Surat,Gujarat,Japan,4.45,1
+31,Prime Enterprises 31,Manager 31,9029071115,supplier31@examplemail.com,Pune,Maharashtra,Taiwan,3.94,1
+32,Elite Enterprises 32,Manager 32,9754892723,supplier32@examplemail.com,Lucknow,Uttar Pradesh,India,4.01,1
+33,National Enterprises 33,Manager 33,9668869258,supplier33@examplemail.com,Hyderabad,Telangana,India,4.39,1
+34,Elite Wholesale 34,Manager 34,9484064965,supplier34@examplemail.com,Pune,Maharashtra,India,4.51,1
+35,Metro Solutions 35,Manager 35,9288980612,supplier35@examplemail.com,Indore,Madhya Pradesh,India,4.22,1
+36,Apex Suppliers 36,Manager 36,9100489267,supplier36@examplemail.com,Mumbai,Maharashtra,Vietnam,3.81,1
+37,Om Solutions 37,Manager 37,9537419488,supplier37@examplemail.com,Kolkata,West Bengal,India,3.99,1
+38,Global Enterprises 38,Manager 38,9733293298,supplier38@examplemail.com,Delhi,Delhi,India,4.64,1
+39,Shree Imports 39,Manager 39,9294728067,supplier39@examplemail.com,Mumbai,Maharashtra,India,4.32,1
+40,Apex Traders 40,Manager 40,9946713425,supplier40@examplemail.com,Pune,Maharashtra,India,4.11,1
+41,Modern Retail Supply 41,Manager 41,9772739585,supplier41@examplemail.com,Ahmedabad,Gujarat,India,4.03,1
+42,Shree Industries 42,Manager 42,9862367480,supplier42@examplemail.com,Indore,Madhya Pradesh,India,4.36,1
+43,Apex Distributors 43,Manager 43,9513968192,supplier43@examplemail.com,Surat,Gujarat,India,4.59,1
+44,Star Distributors 44,Manager 44,9411829787,supplier44@examplemail.com,Kolkata,West Bengal,India,4.71,1
+45,Sunrise Retail Supply 45,Manager 45,9625343237,supplier45@examplemail.com,Delhi,Delhi,India,4.24,1
+46,Star Distributors 46,Manager 46,9012948884,supplier46@examplemail.com,Pune,Maharashtra,India,3.78,1
+47,Shree Retail Supply 47,Manager 47,9783940445,supplier47@examplemail.com,Kolkata,West Bengal,Vietnam,4.96,1
+48,Sunrise Wholesale 48,Manager 48,9238497002,supplier48@examplemail.com,Hyderabad,Telangana,India,3.91,1
+49,Royal Wholesale 49,Manager 49,9701433011,supplier49@examplemail.com,Ludhiana,Punjab,India,4.33,1
+50,Sai Wholesale 50,Manager 50,9693882260,supplier50@examplemail.com,Nagpur,Maharashtra,India,4.59,1
+51,Royal Enterprises 51,Manager 51,9710969347,supplier51@examplemail.com,Indore,Madhya Pradesh,India,4.71,1
+52,Star Imports 52,Manager 52,9272013259,supplier52@examplemail.com,Kolkata,West Bengal,India,3.67,1
+53,Om Retail Supply 53,Manager 53,9117843674,supplier53@examplemail.com,Chennai,Tamil Nadu,India,4.53,1
+54,Apex Distributors 54,Manager 54,9325351513,supplier54@examplemail.com,Bengaluru,Karnataka,India,3.54,1
+55,Shree Enterprises 55,Manager 55,9227178797,supplier55@examplemail.com,Pune,Maharashtra,India,4.21,1
+56,Sunrise Corporation 56,Manager 56,9083879533,supplier56@examplemail.com,Bengaluru,Karnataka,Germany,4.27,1
+57,Modern Corporation 57,Manager 57,9338202100,supplier57@examplemail.com,Delhi,Delhi,India,3.81,1
+58,Sai Enterprises 58,Manager 58,9949348023,supplier58@examplemail.com,Surat,Gujarat,India,3.99,1
+59,Prime Industries 59,Manager 59,9149053785,supplier59@examplemail.com,Indore,Madhya Pradesh,India,4.69,1
+60,Elite Corporation 60,Manager 60,9385001735,supplier60@examplemail.com,Kochi,Kerala,India,3.62,1
+61,United Imports 61,Manager 61,9347685053,supplier61@examplemail.com,Indore,Madhya Pradesh,South Korea,4.38,1
+62,Shree Imports 62,Manager 62,9731921002,supplier62@examplemail.com,Jaipur,Rajasthan,India,3.96,1
+63,Modern Solutions 63,Manager 63,9684183843,supplier63@examplemail.com,Lucknow,Uttar Pradesh,China,3.8,1
+64,Elite Wholesale 64,Manager 64,9851385437,supplier64@examplemail.com,Nagpur,Maharashtra,India,4.28,1
+65,National Distributors 65,Manager 65,9253409495,supplier65@examplemail.com,Pune,Maharashtra,India,4.07,1
+66,Om Imports 66,Manager 66,9798270735,supplier66@examplemail.com,Jaipur,Rajasthan,India,4.14,1
+67,Apex Imports 67,Manager 67,9636837244,supplier67@examplemail.com,Lucknow,Uttar Pradesh,Germany,3.56,1
+68,Sunrise Suppliers 68,Manager 68,9448472329,supplier68@examplemail.com,Chennai,Tamil Nadu,Thailand,3.56,1
+69,Global Industries 69,Manager 69,9194603607,supplier69@examplemail.com,Bengaluru,Karnataka,India,3.96,1
+70,National Retail Supply 70,Manager 70,9645529081,supplier70@examplemail.com,Mumbai,Maharashtra,India,4.57,1
+71,United Distributors 71,Manager 71,9020278402,supplier71@examplemail.com,Chennai,Tamil Nadu,India,4.68,1
+72,Metro Traders 72,Manager 72,9152419303,supplier72@examplemail.com,Delhi,Delhi,India,4.09,1
+73,Metro Enterprises 73,Manager 73,9098751577,supplier73@examplemail.com,Indore,Madhya Pradesh,India,3.66,1
+74,Shree Solutions 74,Manager 74,9561093553,supplier74@examplemail.com,Hyderabad,Telangana,India,4.04,1
+75,Universal Wholesale 75,Manager 75,9130024334,supplier75@examplemail.com,Ludhiana,Punjab,India,3.7,1
+76,Global Traders 76,Manager 76,9785668519,supplier76@examplemail.com,Nagpur,Maharashtra,India,4.18,1
+77,National Suppliers 77,Manager 77,9855287118,supplier77@examplemail.com,Hyderabad,Telangana,India,4.14,1
+78,Sunrise Traders 78,Manager 78,9107072068,supplier78@examplemail.com,Bengaluru,Karnataka,India,4.66,1
+79,Modern Traders 79,Manager 79,9336219880,supplier79@examplemail.com,Kochi,Kerala,India,3.8,1
+80,Metro Industries 80,Manager 80,9646155043,supplier80@examplemail.com,Chennai,Tamil Nadu,China,3.66,1
+81,Universal Retail Supply 81,Manager 81,9648783344,supplier81@examplemail.com,Nagpur,Maharashtra,India,4.17,1
+82,Metro Enterprises 82,Manager 82,9855215366,supplier82@examplemail.com,Hyderabad,Telangana,India,4.77,1
+83,United Traders 83,Manager 83,9193382525,supplier83@examplemail.com,Surat,Gujarat,India,4.48,1
+84,Sai Suppliers 84,Manager 84,9643022086,supplier84@examplemail.com,Kolkata,West Bengal,India,4.13,1
+85,Star Enterprises 85,Manager 85,9949530995,supplier85@examplemail.com,Mumbai,Maharashtra,Japan,4.28,1
+86,Metro Corporation 86,Manager 86,9075264349,supplier86@examplemail.com,Indore,Madhya Pradesh,India,3.65,1
+87,Modern Retail Supply 87,Manager 87,9602107763,supplier87@examplemail.com,Surat,Gujarat,India,4.23,1
+88,Royal Retail Supply 88,Manager 88,9164210750,supplier88@examplemail.com,Pune,Maharashtra,South Korea,4.69,1
+89,Global Industries 89,Manager 89,9719300398,supplier89@examplemail.com,Kochi,Kerala,Japan,4.49,1
+90,Om Imports 90,Manager 90,9946585593,supplier90@examplemail.com,Surat,Gujarat,India,3.78,1
+91,United Corporation 91,Manager 91,9570084246,supplier91@examplemail.com,Surat,Gujarat,India,4.09,1
+92,Global Suppliers 92,Manager 92,9391448070,supplier92@examplemail.com,Ludhiana,Punjab,India,4.81,1
+93,United Wholesale 93,Manager 93,9445933042,supplier93@examplemail.com,Lucknow,Uttar Pradesh,India,4.05,1
+94,Elite Imports 94,Manager 94,9717704896,supplier94@examplemail.com,Hyderabad,Telangana,India,3.56,1
+95,Metro Imports 95,Manager 95,9517588279,supplier95@examplemail.com,Ludhiana,Punjab,India,4.03,1
+96,Elite Industries 96,Manager 96,9159747929,supplier96@examplemail.com,Jaipur,Rajasthan,Vietnam,4.23,1
+97,Apex Retail Supply 97,Manager 97,9394510916,supplier97@examplemail.com,Kochi,Kerala,India,3.91,1
+98,Om Distributors 98,Manager 98,9645826859,supplier98@examplemail.com,Ahmedabad,Gujarat,India,4.05,1
+99,Royal Imports 99,Manager 99,9541460950,supplier99@examplemail.com,Surat,Gujarat,India,3.77,1
+100,United Corporation 100,Manager 100,9635272373,supplier100@examplemail.com,Surat,Gujarat,India,4.73,1
+101,Royal Wholesale 101,Manager 101,9787841650,supplier101@examplemail.com,Nagpur,Maharashtra,Japan,4.87,1
+102,Shree Solutions 102,Manager 102,9824659551,supplier102@examplemail.com,Ahmedabad,Gujarat,India,3.74,1
+103,National Retail Supply 103,Manager 103,9776962731,supplier103@examplemail.com,Kolkata,West Bengal,India,4.96,1
+104,Sai Industries 104,Manager 104,9257655452,supplier104@examplemail.com,Pune,Maharashtra,China,3.74,1
+105,Universal Enterprises 105,Manager 105,9468113922,supplier105@examplemail.com,Ludhiana,Punjab,India,4,1
+106,Shree Solutions 106,Manager 106,9375404122,supplier106@examplemail.com,Surat,Gujarat,India,3.61,1
+107,Global Suppliers 107,Manager 107,9654140420,supplier107@examplemail.com,Nagpur,Maharashtra,India,4.87,1
+108,National Imports 108,Manager 108,9328712640,supplier108@examplemail.com,Nagpur,Maharashtra,India,4.03,1
+109,Global Retail Supply 109,Manager 109,9406159718,supplier109@examplemail.com,Chennai,Tamil Nadu,Japan,3.74,1
+110,Prime Corporation 110,Manager 110,9278475429,supplier110@examplemail.com,Chennai,Tamil Nadu,India,4.61,1
+111,Prime Corporation 111,Manager 111,9631278813,supplier111@examplemail.com,Kolkata,West Bengal,India,4.61,1
+112,Om Imports 112,Manager 112,9929445722,supplier112@examplemail.com,Kolkata,West Bengal,India,3.69,1
+113,National Retail Supply 113,Manager 113,9135337362,supplier113@examplemail.com,Surat,Gujarat,India,3.84,1
+114,Prime Solutions 114,Manager 114,9112794764,supplier114@examplemail.com,Lucknow,Uttar Pradesh,India,4.95,1
+115,Shree Distributors 115,Manager 115,9421836632,supplier115@examplemail.com,Kolkata,West Bengal,Japan,4.14,1
+116,Elite Enterprises 116,Manager 116,9850809761,supplier116@examplemail.com,Pune,Maharashtra,India,4.27,1
+117,Apex Solutions 117,Manager 117,9725136567,supplier117@examplemail.com,Surat,Gujarat,India,4.08,1
+118,Universal Suppliers 118,Manager 118,9571962848,supplier118@examplemail.com,Lucknow,Uttar Pradesh,India,3.91,1
+119,Modern Enterprises 119,Manager 119,9333452531,supplier119@examplemail.com,Pune,Maharashtra,India,4.75,1
+120,Universal Suppliers 120,Manager 120,9821272767,supplier120@examplemail.com,Bengaluru,Karnataka,India,4.92,1
+121,Shree Imports 121,Manager 121,9040914599,supplier121@examplemail.com,Delhi,Delhi,India,3.57,1
+122,Star Imports 122,Manager 122,9015806269,supplier122@examplemail.com,Mumbai,Maharashtra,India,4.26,1
+123,Om Solutions 123,Manager 123,9831482943,supplier123@examplemail.com,Hyderabad,Telangana,India,4.44,1
+124,Royal Traders 124,Manager 124,9371120251,supplier124@examplemail.com,Surat,Gujarat,India,4.24,1
+125,Elite Imports 125,Manager 125,9925468559,supplier125@examplemail.com,Delhi,Delhi,Germany,4.41,1
+126,Modern Retail Supply 126,Manager 126,9036746504,supplier126@examplemail.com,Indore,Madhya Pradesh,USA,3.56,1
+127,National Retail Supply 127,Manager 127,9870019953,supplier127@examplemail.com,Ludhiana,Punjab,India,4.49,1
+128,Royal Solutions 128,Manager 128,9993145793,supplier128@examplemail.com,Nagpur,Maharashtra,India,4.32,1
+129,Om Imports 129,Manager 129,9370127946,supplier129@examplemail.com,Ludhiana,Punjab,India,4.45,1
+130,Modern Distributors 130,Manager 130,9248691549,supplier130@examplemail.com,Nagpur,Maharashtra,India,4.98,1
+131,Star Enterprises 131,Manager 131,9439614541,supplier131@examplemail.com,Ahmedabad,Gujarat,India,3.73,1
+132,Om Industries 132,Manager 132,9801331923,supplier132@examplemail.com,Lucknow,Uttar Pradesh,India,4.88,1
+133,Shree Distributors 133,Manager 133,9751071455,supplier133@examplemail.com,Jaipur,Rajasthan,India,3.59,1
+134,Elite Wholesale 134,Manager 134,9840450755,supplier134@examplemail.com,Jaipur,Rajasthan,India,4.7,1
+135,Star Enterprises 135,Manager 135,9736326724,supplier135@examplemail.com,Indore,Madhya Pradesh,India,4.13,1
+136,Apex Corporation 136,Manager 136,9575044915,supplier136@examplemail.com,Chennai,Tamil Nadu,India,4.03,1
+137,Modern Imports 137,Manager 137,9060242447,supplier137@examplemail.com,Hyderabad,Telangana,India,3.54,1
+138,Global Corporation 138,Manager 138,9635188207,supplier138@examplemail.com,Delhi,Delhi,India,4.56,1
+139,Elite Industries 139,Manager 139,9918752038,supplier139@examplemail.com,Bengaluru,Karnataka,Germany,4.99,1
+140,Universal Retail Supply 140,Manager 140,9779497566,supplier140@examplemail.com,Pune,Maharashtra,India,4.21,1
+141,Universal Retail Supply 141,Manager 141,9226267965,supplier141@examplemail.com,Lucknow,Uttar Pradesh,India,3.55,1
+142,United Solutions 142,Manager 142,9311173396,supplier142@examplemail.com,Kolkata,West Bengal,India,4.04,1
+143,National Solutions 143,Manager 143,9194802412,supplier143@examplemail.com,Mumbai,Maharashtra,India,4.19,1
+144,Modern Retail Supply 144,Manager 144,9609284944,supplier144@examplemail.com,Hyderabad,Telangana,India,4.55,1
+145,Apex Solutions 145,Manager 145,9726490274,supplier145@examplemail.com,Mumbai,Maharashtra,India,3.7,1
+146,Shree Suppliers 146,Manager 146,9815313944,supplier146@examplemail.com,Kochi,Kerala,Taiwan,4.08,1
+147,United Wholesale 147,Manager 147,9495528144,supplier147@examplemail.com,Pune,Maharashtra,India,3.84,1
+148,United Retail Supply 148,Manager 148,9956466980,supplier148@examplemail.com,Jaipur,Rajasthan,India,3.51,1
+149,Modern Traders 149,Manager 149,9860569693,supplier149@examplemail.com,Ludhiana,Punjab,India,3.68,1
+150,Royal Imports 150,Manager 150,9586809028,supplier150@examplemail.com,Kolkata,West Bengal,China,4.3,1
+151,Apex Wholesale 151,Manager 151,9639514916,supplier151@examplemail.com,Surat,Gujarat,India,3.78,1
+152,Shree Retail Supply 152,Manager 152,9610177139,supplier152@examplemail.com,Indore,Madhya Pradesh,India,4.3,1
+153,Shree Imports 153,Manager 153,9258748253,supplier153@examplemail.com,Indore,Madhya Pradesh,India,4.14,1
+154,Prime Imports 154,Manager 154,9091540187,supplier154@examplemail.com,Kolkata,West Bengal,India,4.05,1
+155,Star Industries 155,Manager 155,9697882111,supplier155@examplemail.com,Kochi,Kerala,India,4.81,1
+156,Shree Traders 156,Manager 156,9918477504,supplier156@examplemail.com,Bengaluru,Karnataka,India,4.78,1
+157,United Imports 157,Manager 157,9906346812,supplier157@examplemail.com,Chennai,Tamil Nadu,India,4.5,1
+158,Shree Enterprises 158,Manager 158,9438566872,supplier158@examplemail.com,Hyderabad,Telangana,USA,3.91,1
+159,United Wholesale 159,Manager 159,9808917468,supplier159@examplemail.com,Mumbai,Maharashtra,India,4.07,1
+160,Elite Retail Supply 160,Manager 160,9949186984,supplier160@examplemail.com,Mumbai,Maharashtra,India,4.34,1
+161,Elite Wholesale 161,Manager 161,9861099408,supplier161@examplemail.com,Nagpur,Maharashtra,India,4.89,1
+162,Om Corporation 162,Manager 162,9004208929,supplier162@examplemail.com,Bengaluru,Karnataka,India,4.82,1
+163,Sai Imports 163,Manager 163,9833150227,supplier163@examplemail.com,Chennai,Tamil Nadu,Vietnam,3.86,1
+164,Modern Enterprises 164,Manager 164,9155477317,supplier164@examplemail.com,Pune,Maharashtra,Japan,4.46,1
+165,Universal Corporation 165,Manager 165,9459878782,supplier165@examplemail.com,Hyderabad,Telangana,India,3.68,1
+166,United Imports 166,Manager 166,9361271299,supplier166@examplemail.com,Lucknow,Uttar Pradesh,India,4.82,1
+167,Star Industries 167,Manager 167,9305789975,supplier167@examplemail.com,Ludhiana,Punjab,India,3.62,1
+168,Royal Retail Supply 168,Manager 168,9627738395,supplier168@examplemail.com,Ahmedabad,Gujarat,India,3.89,1
+169,United Enterprises 169,Manager 169,9054459788,supplier169@examplemail.com,Pune,Maharashtra,India,4.84,1
+170,Universal Imports 170,Manager 170,9388560892,supplier170@examplemail.com,Lucknow,Uttar Pradesh,India,4.59,1
+171,Global Enterprises 171,Manager 171,9479096442,supplier171@examplemail.com,Jaipur,Rajasthan,India,3.93,1
+172,Elite Imports 172,Manager 172,9979325934,supplier172@examplemail.com,Kolkata,West Bengal,South Korea,4.09,1
+173,Om Solutions 173,Manager 173,9391360749,supplier173@examplemail.com,Ahmedabad,Gujarat,India,4.9,1
+174,National Suppliers 174,Manager 174,9055774521,supplier174@examplemail.com,Jaipur,Rajasthan,India,4.32,1
+175,United Industries 175,Manager 175,9151032307,supplier175@examplemail.com,Jaipur,Rajasthan,India,3.57,1
+176,Om Imports 176,Manager 176,9466464189,supplier176@examplemail.com,Mumbai,Maharashtra,India,4.19,1
+177,Universal Suppliers 177,Manager 177,9998232046,supplier177@examplemail.com,Kolkata,West Bengal,India,4.62,1
+178,Elite Distributors 178,Manager 178,9030190271,supplier178@examplemail.com,Lucknow,Uttar Pradesh,Taiwan,4.95,1
+179,Om Traders 179,Manager 179,9324251466,supplier179@examplemail.com,Lucknow,Uttar Pradesh,India,4.18,1
+180,Royal Imports 180,Manager 180,9324540315,supplier180@examplemail.com,Bengaluru,Karnataka,India,4.35,1
+181,Prime Corporation 181,Manager 181,9738509058,supplier181@examplemail.com,Ludhiana,Punjab,India,3.8,1
+182,Sunrise Imports 182,Manager 182,9584454304,supplier182@examplemail.com,Ahmedabad,Gujarat,Thailand,3.81,1
+183,Metro Distributors 183,Manager 183,9299599036,supplier183@examplemail.com,Nagpur,Maharashtra,India,4.25,1
+184,Modern Industries 184,Manager 184,9417628815,supplier184@examplemail.com,Mumbai,Maharashtra,India,4.79,1
+185,Universal Traders 185,Manager 185,9638508814,supplier185@examplemail.com,Nagpur,Maharashtra,India,3.96,1
+186,Metro Enterprises 186,Manager 186,9588545832,supplier186@examplemail.com,Nagpur,Maharashtra,India,3.87,1
+187,National Industries 187,Manager 187,9475852684,supplier187@examplemail.com,Indore,Madhya Pradesh,India,3.62,1
+188,Shree Solutions 188,Manager 188,9684604233,supplier188@examplemail.com,Delhi,Delhi,India,4.69,1
+189,Global Distributors 189,Manager 189,9054208839,supplier189@examplemail.com,Bengaluru,Karnataka,India,3.89,1
+190,Om Imports 190,Manager 190,9844499750,supplier190@examplemail.com,Chennai,Tamil Nadu,India,3.75,1
+191,Universal Wholesale 191,Manager 191,9045016852,supplier191@examplemail.com,Kolkata,West Bengal,India,3.74,1
+192,Sai Solutions 192,Manager 192,9614255898,supplier192@examplemail.com,Surat,Gujarat,India,4.23,1
+193,Shree Suppliers 193,Manager 193,9827476873,supplier193@examplemail.com,Mumbai,Maharashtra,India,3.54,1
+194,United Wholesale 194,Manager 194,9706704581,supplier194@examplemail.com,Jaipur,Rajasthan,India,4.25,1
+195,Metro Industries 195,Manager 195,9568475471,supplier195@examplemail.com,Ludhiana,Punjab,India,4.44,1
+196,Prime Imports 196,Manager 196,9428130979,supplier196@examplemail.com,Surat,Gujarat,India,4.82,1
+197,Elite Distributors 197,Manager 197,9463949227,supplier197@examplemail.com,Kolkata,West Bengal,India,3.69,1
+198,United Suppliers 198,Manager 198,9582453184,supplier198@examplemail.com,Kochi,Kerala,India,3.95,1
+199,Global Retail Supply 199,Manager 199,9693413353,supplier199@examplemail.com,Kochi,Kerala,India,3.88,1
+200,Universal Corporation 200,Manager 200,9873272715,supplier200@examplemail.com,Chennai,Tamil Nadu,India,3.94,1
+201,United Enterprises 201,Manager 201,9748069678,supplier201@examplemail.com,Ahmedabad,Gujarat,India,4.19,1
+202,Prime Wholesale 202,Manager 202,9144264330,supplier202@examplemail.com,Ahmedabad,Gujarat,India,4.42,1
+203,Sunrise Suppliers 203,Manager 203,9111359428,supplier203@examplemail.com,Lucknow,Uttar Pradesh,India,4.89,1
+204,Elite Wholesale 204,Manager 204,9031098770,supplier204@examplemail.com,Delhi,Delhi,USA,3.68,1
+205,Sunrise Imports 205,Manager 205,9552870002,supplier205@examplemail.com,Nagpur,Maharashtra,India,4.96,1
+206,Prime Retail Supply 206,Manager 206,9605140705,supplier206@examplemail.com,Surat,Gujarat,India,4.49,1
+207,Elite Enterprises 207,Manager 207,9541305874,supplier207@examplemail.com,Hyderabad,Telangana,India,3.76,1
+208,National Enterprises 208,Manager 208,9055184400,supplier208@examplemail.com,Kochi,Kerala,India,3.74,1
+209,Apex Imports 209,Manager 209,9005875798,supplier209@examplemail.com,Kochi,Kerala,India,4.25,1
+210,Royal Industries 210,Manager 210,9280189235,supplier210@examplemail.com,Bengaluru,Karnataka,India,3.79,1
+211,Royal Distributors 211,Manager 211,9038540933,supplier211@examplemail.com,Bengaluru,Karnataka,India,3.65,1
+212,Sai Retail Supply 212,Manager 212,9318685126,supplier212@examplemail.com,Kochi,Kerala,India,4.19,1
+213,Royal Wholesale 213,Manager 213,9961247481,supplier213@examplemail.com,Pune,Maharashtra,India,4.51,1
+214,Om Traders 214,Manager 214,9597679086,supplier214@examplemail.com,Kochi,Kerala,India,4.06,1
+215,United Industries 215,Manager 215,9900099936,supplier215@examplemail.com,Jaipur,Rajasthan,China,4.85,1
+216,Elite Traders 216,Manager 216,9061772971,supplier216@examplemail.com,Lucknow,Uttar Pradesh,India,4.05,1
+217,Universal Industries 217,Manager 217,9712906014,supplier217@examplemail.com,Hyderabad,Telangana,India,4.64,1
+218,Metro Corporation 218,Manager 218,9004807473,supplier218@examplemail.com,Indore,Madhya Pradesh,South Korea,3.65,1
+219,Prime Corporation 219,Manager 219,9779192639,supplier219@examplemail.com,Ahmedabad,Gujarat,India,4.79,1
+220,Royal Solutions 220,Manager 220,9053360422,supplier220@examplemail.com,Surat,Gujarat,India,4.4,1
+221,Elite Corporation 221,Manager 221,9593311676,supplier221@examplemail.com,Surat,Gujarat,India,4.29,1
+222,Om Wholesale 222,Manager 222,9270989005,supplier222@examplemail.com,Mumbai,Maharashtra,India,4.19,1
+223,National Retail Supply 223,Manager 223,9599503650,supplier223@examplemail.com,Lucknow,Uttar Pradesh,India,3.88,1
+224,Shree Retail Supply 224,Manager 224,9858679940,supplier224@examplemail.com,Kolkata,West Bengal,India,4.52,1
+225,Om Industries 225,Manager 225,9837447780,supplier225@examplemail.com,Indore,Madhya Pradesh,India,3.6,1
+226,Global Enterprises 226,Manager 226,9699568673,supplier226@examplemail.com,Indore,Madhya Pradesh,India,3.55,1
+227,Royal Enterprises 227,Manager 227,9484956267,supplier227@examplemail.com,Mumbai,Maharashtra,South Korea,4.01,1
+228,Shree Wholesale 228,Manager 228,9086257607,supplier228@examplemail.com,Ahmedabad,Gujarat,India,3.8,1
+229,Apex Industries 229,Manager 229,9944128400,supplier229@examplemail.com,Chennai,Tamil Nadu,India,4.93,1
+230,Star Solutions 230,Manager 230,9948888290,supplier230@examplemail.com,Bengaluru,Karnataka,India,4.51,1
+231,Om Enterprises 231,Manager 231,9287594818,supplier231@examplemail.com,Kolkata,West Bengal,India,4.67,1
+232,Apex Suppliers 232,Manager 232,9905195570,supplier232@examplemail.com,Pune,Maharashtra,India,4.63,1
+233,Om Corporation 233,Manager 233,9310229716,supplier233@examplemail.com,Bengaluru,Karnataka,India,4.66,1
+234,Global Suppliers 234,Manager 234,9352920192,supplier234@examplemail.com,Chennai,Tamil Nadu,India,3.81,1
+235,Sai Imports 235,Manager 235,9674227495,supplier235@examplemail.com,Indore,Madhya Pradesh,India,4.21,1
+236,Shree Distributors 236,Manager 236,9336201483,supplier236@examplemail.com,Surat,Gujarat,India,3.65,1
+237,Shree Traders 237,Manager 237,9554848827,supplier237@examplemail.com,Jaipur,Rajasthan,India,3.96,1
+238,Universal Enterprises 238,Manager 238,9309627871,supplier238@examplemail.com,Delhi,Delhi,India,4.61,1
+239,Royal Solutions 239,Manager 239,9596428025,supplier239@examplemail.com,Indore,Madhya Pradesh,India,3.8,1
+240,United Traders 240,Manager 240,9378585772,supplier240@examplemail.com,Ahmedabad,Gujarat,India,3.78,1
+241,Modern Wholesale 241,Manager 241,9719520057,supplier241@examplemail.com,Mumbai,Maharashtra,India,3.75,1
+242,Sunrise Industries 242,Manager 242,9523562681,supplier242@examplemail.com,Lucknow,Uttar Pradesh,India,3.84,1
+243,United Distributors 243,Manager 243,9162565458,supplier243@examplemail.com,Kolkata,West Bengal,India,4.26,1
+244,United Traders 244,Manager 244,9620164957,supplier244@examplemail.com,Surat,Gujarat,India,3.53,1
+245,Sunrise Wholesale 245,Manager 245,9182678744,supplier245@examplemail.com,Kochi,Kerala,India,4.4,1
+246,Star Wholesale 246,Manager 246,9191332591,supplier246@examplemail.com,Kolkata,West Bengal,India,4.67,1
+247,National Suppliers 247,Manager 247,9935782399,supplier247@examplemail.com,Nagpur,Maharashtra,India,4.51,1
+248,Om Corporation 248,Manager 248,9580773453,supplier248@examplemail.com,Lucknow,Uttar Pradesh,India,3.9,1
+249,Prime Enterprises 249,Manager 249,9852991059,supplier249@examplemail.com,Kochi,Kerala,India,4.21,1
+250,Modern Retail Supply 250,Manager 250,9616752879,supplier250@examplemail.com,Lucknow,Uttar Pradesh,India,4.05,1
+251,Universal Enterprises 251,Manager 251,9369338880,supplier251@examplemail.com,Pune,Maharashtra,Germany,3.68,1
+252,National Industries 252,Manager 252,9952267207,supplier252@examplemail.com,Pune,Maharashtra,India,4.53,1
+253,Prime Imports 253,Manager 253,9636026896,supplier253@examplemail.com,Nagpur,Maharashtra,India,4.11,1
+254,Shree Imports 254,Manager 254,9087542524,supplier254@examplemail.com,Ludhiana,Punjab,India,3.75,1
+255,Universal Suppliers 255,Manager 255,9679058168,supplier255@examplemail.com,Hyderabad,Telangana,India,4.58,1
+256,Apex Imports 256,Manager 256,9757226141,supplier256@examplemail.com,Kolkata,West Bengal,India,3.93,1
+257,Royal Imports 257,Manager 257,9619008987,supplier257@examplemail.com,Nagpur,Maharashtra,India,3.73,1
+258,Shree Suppliers 258,Manager 258,9758615217,supplier258@examplemail.com,Pune,Maharashtra,India,4.79,1
+259,Om Imports 259,Manager 259,9269151822,supplier259@examplemail.com,Delhi,Delhi,India,4.44,1
+260,Royal Wholesale 260,Manager 260,9649161647,supplier260@examplemail.com,Surat,Gujarat,India,3.75,1
+261,Metro Retail Supply 261,Manager 261,9768274152,supplier261@examplemail.com,Bengaluru,Karnataka,India,4.88,1
+262,Star Traders 262,Manager 262,9039500595,supplier262@examplemail.com,Indore,Madhya Pradesh,Taiwan,4.59,1
+263,National Distributors 263,Manager 263,9961267726,supplier263@examplemail.com,Delhi,Delhi,India,4.31,1
+264,Sunrise Distributors 264,Manager 264,9636347574,supplier264@examplemail.com,Ludhiana,Punjab,India,4.96,1
+265,Om Enterprises 265,Manager 265,9337286468,supplier265@examplemail.com,Pune,Maharashtra,India,4.48,1
+266,Global Solutions 266,Manager 266,9466795514,supplier266@examplemail.com,Bengaluru,Karnataka,India,4.63,1
+267,Prime Retail Supply 267,Manager 267,9143106300,supplier267@examplemail.com,Ludhiana,Punjab,India,3.81,1
+268,Sai Wholesale 268,Manager 268,9085902017,supplier268@examplemail.com,Bengaluru,Karnataka,India,3.66,1
+269,Prime Traders 269,Manager 269,9136836624,supplier269@examplemail.com,Bengaluru,Karnataka,India,3.58,1
+270,Sai Traders 270,Manager 270,9278875311,supplier270@examplemail.com,Nagpur,Maharashtra,India,4.6,1
+271,Apex Industries 271,Manager 271,9094818157,supplier271@examplemail.com,Pune,Maharashtra,India,4.66,1
+272,Prime Retail Supply 272,Manager 272,9400702328,supplier272@examplemail.com,Kolkata,West Bengal,India,4.77,1
+273,Om Retail Supply 273,Manager 273,9167353531,supplier273@examplemail.com,Surat,Gujarat,India,3.72,1
+274,United Distributors 274,Manager 274,9296126324,supplier274@examplemail.com,Jaipur,Rajasthan,India,4.79,1
+275,United Industries 275,Manager 275,9124272466,supplier275@examplemail.com,Surat,Gujarat,India,4.84,1
+276,Royal Solutions 276,Manager 276,9687941382,supplier276@examplemail.com,Pune,Maharashtra,India,4.83,1
+277,Elite Imports 277,Manager 277,9532650032,supplier277@examplemail.com,Chennai,Tamil Nadu,India,4.11,1
+278,Sunrise Corporation 278,Manager 278,9546780644,supplier278@examplemail.com,Delhi,Delhi,India,3.73,1
+279,Shree Corporation 279,Manager 279,9354294063,supplier279@examplemail.com,Chennai,Tamil Nadu,India,4.09,1
+280,Star Industries 280,Manager 280,9408123412,supplier280@examplemail.com,Ludhiana,Punjab,India,3.76,1
+281,Sunrise Solutions 281,Manager 281,9668840936,supplier281@examplemail.com,Indore,Madhya Pradesh,India,4.31,1
+282,Star Retail Supply 282,Manager 282,9686655782,supplier282@examplemail.com,Delhi,Delhi,India,3.93,1
+283,Universal Suppliers 283,Manager 283,9722963623,supplier283@examplemail.com,Delhi,Delhi,India,4.06,1
+284,Royal Distributors 284,Manager 284,9319096313,supplier284@examplemail.com,Jaipur,Rajasthan,India,3.61,1
+285,Apex Solutions 285,Manager 285,9247180972,supplier285@examplemail.com,Ahmedabad,Gujarat,India,3.56,1
+286,Modern Corporation 286,Manager 286,9039761068,supplier286@examplemail.com,Pune,Maharashtra,India,3.81,1
+287,National Imports 287,Manager 287,9394868851,supplier287@examplemail.com,Ahmedabad,Gujarat,India,4.88,1
+288,Sai Traders 288,Manager 288,9651555938,supplier288@examplemail.com,Delhi,Delhi,Vietnam,4.02,1
+289,Modern Suppliers 289,Manager 289,9972797568,supplier289@examplemail.com,Kolkata,West Bengal,India,4.59,1
+290,Star Industries 290,Manager 290,9510087739,supplier290@examplemail.com,Bengaluru,Karnataka,India,3.94,1
+291,Universal Wholesale 291,Manager 291,9491807904,supplier291@examplemail.com,Surat,Gujarat,India,4.98,1
+292,Sunrise Distributors 292,Manager 292,9745244277,supplier292@examplemail.com,Chennai,Tamil Nadu,India,3.94,1
+293,United Retail Supply 293,Manager 293,9884681001,supplier293@examplemail.com,Pune,Maharashtra,India,4.71,1
+294,Prime Imports 294,Manager 294,9337395713,supplier294@examplemail.com,Delhi,Delhi,India,4.81,1
+295,Modern Retail Supply 295,Manager 295,9359644825,supplier295@examplemail.com,Kolkata,West Bengal,Taiwan,3.89,1
+296,Elite Corporation 296,Manager 296,9097696609,supplier296@examplemail.com,Bengaluru,Karnataka,India,4.6,1
+297,Prime Solutions 297,Manager 297,9870997096,supplier297@examplemail.com,Bengaluru,Karnataka,China,4.8,1
+298,Shree Industries 298,Manager 298,9895345110,supplier298@examplemail.com,Delhi,Delhi,India,4.73,1
+299,Global Retail Supply 299,Manager 299,9634677604,supplier299@examplemail.com,Kolkata,West Bengal,India,3.53,1
+300,Modern Corporation 300,Manager 300,9271871262,supplier300@examplemail.com,Jaipur,Rajasthan,India,4.32,1

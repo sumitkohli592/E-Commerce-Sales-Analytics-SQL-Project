@@ -1,0 +1,11 @@
+WarehouseID,WarehouseName,City,State,Capacity,ManagerName
+1,North Distribution Center,Delhi,Delhi,50000,Rahul Sharma
+2,West Fulfillment Hub,Mumbai,Maharashtra,65000,Priya Mehta
+3,South Logistics Center,Bengaluru,Karnataka,60000,Amit Kumar
+4,East Distribution Hub,Kolkata,West Bengal,45000,Sneha Verma
+5,Central Warehouse,Nagpur,Maharashtra,55000,Vikas Singh
+6,Hyderabad Fulfillment Center,Hyderabad,Telangana,50000,Neha Gupta
+7,Chennai Storage Hub,Chennai,Tamil Nadu,48000,Rohit Jain
+8,Ahmedabad Supply Center,Ahmedabad,Gujarat,47000,Pooja Patel
+9,Jaipur Regional Warehouse,Jaipur,Rajasthan,42000,Karan Yadav
+10,Lucknow Distribution Hub,Lucknow,Uttar Pradesh,40000,Ananya Nair
